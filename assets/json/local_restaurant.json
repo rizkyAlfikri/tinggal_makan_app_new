@@ -1,0 +1,1467 @@
+{
+  "restaurants": [
+    {
+      "id": "rqdv5juczeskfw1e867",
+      "name": "Melting Pot",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/14",
+      "city": "Medan",
+      "rating": 4.2,
+      "menus": {
+        "foods": [
+          {
+            "name": "Paket rosemary",
+            "image": "https://petualang.travelingyuk.com//uploads/2018/12/Bihun-Bebek.-Chinese-rice-noodle-soup-with-slices-of-duck-meat-a-popular-dish-for-breakfast-and-lunch-in-Medan-North-Sumatra..jpg",
+            "tags": "bebek, rosemary",
+            "rate": 4.5,
+            "vote": 78
+          },
+          {
+            "name": "Toastie salmon",
+            "image": "https://229hkg2lw84tezus91ay33k2-wpengine.netdna-ssl.com/wp-content/uploads/2010/05/lox-and-toast.jpg",
+            "tags": "salmon, toast, eggs",
+            "rate": 4.7,
+            "vote": 82
+          },
+          {
+            "name": "Bebek crepes",
+            "image": "https://assets-pergikuliner.com/jR61qYT2fVc8kKTAZO9C9mTQSsI=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/679597/picture-1505895863.JPG",
+            "tags": "bebek, cabai, crepsy",
+            "rate": 5.0,
+            "vote": 125
+          },
+          {
+            "name": "Salad lengkeng",
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/07/30/salad-buah-enak-1.jpeg?w=700&q=90",
+            "tags": "salad, lengkeng, sweet",
+            "rate": 5.0,
+            "vote": 217
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Es krim",
+            "image": "https://media.timeout.com/images/105680295/1372/772/image.jpg",
+            "tags": "ice, freeze, sweet",
+            "rate": 5.0,
+            "vote": 90
+          },
+          {
+            "name": "Sirup",
+            "image": "https://barecamedia.com/wp-content/uploads/2018/12/tc-express-2.jpg",
+            "tags": "sirup, fruit, orange",
+            "rate": 4.8,
+            "vote": 171
+          },
+          {
+            "name": "Jus apel",
+            "image": "https://mymilk.com/uploads/10-1.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Air",
+            "image": "http://samudranesia.id/wp-content/uploads/2019/08/air-putih.jpg",
+            "tags": "water, fresh, health",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Es kopi",
+            "image": "https://img.okezone.com/content/2019/10/11/298/2115704/tips-bikin-es-kopi-susu-gula-aren-ala-coffee-shop-C2nLIqHPDk.jpg",
+            "tags": "ice, coffee, milk",
+            "rate": 4.4,
+            "vote": 367
+          },
+          {
+            "name": "Jus alpukat",
+            "image": "https://caramembuat.id/wp-content/uploads/2019/01/cara-membuat-jus-alpukat.jpg",
+            "tags": "jus, avocado, health",
+            "rate": 4.7,
+            "vote": 210
+          },
+          {
+            "name": "Jus mangga",
+            "image": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/qwTpHwXe4j.jpg",
+            "tags": "jus, mango, health",
+            "rate": 5.0,
+            "vote": 180
+          },
+          {
+            "name": "Teh manis",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Kopi espresso",
+            "image": "https://asset.kompas.com/crops/Zx-i1LfsyTUseXT0eYqhKEo3ykk=/0x108:1000x608/750x500/data/photo/2017/08/08/3437766344.jpg",
+            "tags": "coffee, freeze, hot",
+            "rate": 4.6,
+            "vote": 42
+          },
+          {
+            "name": "Minuman soda",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/cewekbangetfoto/original/77518_meski-enak-dan-menyegarkan-soda-punya-banyak-dampak-buruk-bagi-kesehatan-kita.jpg",
+            "tags": "softdrink, soda, sweet",
+            "rate": 4.2,
+            "vote": 515
+          },
+          {
+            "name": "Jus tomat",
+            "image": "https://asset.kompas.com/crops/hXqJcAprfIWWXGoAnHvozTALgRQ=/0x75:1000x575/750x500/data/photo/2019/06/19/1237816996.jpg",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          }
+        ]
+      }
+    },
+    {
+      "id": "s1knt6za9kkfw1e867",
+      "name": "Kafe Kita",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/25",
+      "city": "Gorontalo",
+      "rating": 4.0,
+      "menus": {
+        "foods": [
+          {
+            "name": "Kari kacang dan telur",
+            "image": "https://indonesianchefassociation.com/storage/recipes/zpGT7Bey6r3S1k4fjdvmEPoMCifG86KfhB2F5kWi.jpeg",
+            "tags": "curry, bean, eags",
+            "rate": 4.4,
+            "vote": 27
+          },
+          {
+            "name": "Ikan teri dan roti",
+            "image": "https://tandaseru.id/wp-content/uploads/2018/11/samball1.jpg",
+            "tags": "fish, salt, hot",
+            "rate": 4.2,
+            "vote": 91
+          },
+          {
+            "name": "roket penne",
+            "image": "https://img.taste.com.au/A6v6tS7y/w720-h480-cfill-q80/taste/2016/11/penne-with-rocket-pesto-ricotta-31863-1.jpeg",
+            "tags": "pasta, presto",
+            "rate": 4.0,
+            "vote": 40
+          },
+          {
+            "name": "Salad lengkeng",
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/07/30/salad-buah-enak-1.jpeg?w=700&q=90",
+            "tags": "salad, lengkeng, sweet",
+            "rate": 5.0,
+            "vote": 217
+          },
+          {
+            "name": "Tumis leek",
+            "image": "https://i.pinimg.com/564x/1e/23/54/1e2354e9686f961e631996d4588cd58d.jpg",
+            "tags": "tumis, vegetable",
+            "rate": 4.2,
+            "vote": 62
+          },
+          {
+            "name": "Salad yuzu",
+            "image": "https://ohmydish.com/wp-content/uploads/2019/11/Oriental-salad-with-yuzu-dressing-1024x683.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          },
+          {
+            "name": "Sosis squash dan mint",
+            "image": "https://www.wikihow.com/images/thumb/0/0d/Bake-Spaghetti-Squash-Step-8-Version-3.jpg/v4-728px-Bake-Spaghetti-Squash-Step-8-Version-3.jpg.webp",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Jus tomat",
+            "image": "https://asset.kompas.com/crops/hXqJcAprfIWWXGoAnHvozTALgRQ=/0x75:1000x575/750x500/data/photo/2019/06/19/1237816996.jpg",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Minuman soda",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/cewekbangetfoto/original/77518_meski-enak-dan-menyegarkan-soda-punya-banyak-dampak-buruk-bagi-kesehatan-kita.jpg",
+            "tags": "softdrink, soda, sweet",
+            "rate": 4.2,
+            "vote": 515
+          },
+          {
+            "name": "Jus apel",
+            "image": "https://mymilk.com/uploads/10-1.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Jus mangga",
+            "image": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/qwTpHwXe4j.jpg",
+            "tags": "jus, mango, health",
+            "rate": 5.0,
+            "vote": 180
+          },
+          {
+            "name": "Es krim",
+            "image": "https://media.timeout.com/images/105680295/1372/772/image.jpg",
+            "tags": "ice, freeze, sweet",
+            "rate": 5.0,
+            "vote": 90
+          },
+          {
+            "name": "Kopi espresso",
+            "image": "https://asset.kompas.com/crops/Zx-i1LfsyTUseXT0eYqhKEo3ykk=/0x108:1000x608/750x500/data/photo/2017/08/08/3437766344.jpg",
+            "tags": "coffee, freeze, hot",
+            "rate": 4.6,
+            "vote": 42
+          },
+          {
+            "name": "Jus alpukat",
+            "image": "https://caramembuat.id/wp-content/uploads/2019/01/cara-membuat-jus-alpukat.jpg",
+            "tags": "jus, avocado, health",
+            "rate": 4.7,
+            "vote": 210
+          },
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Es kopi",
+            "image": "https://img.okezone.com/content/2019/10/11/298/2115704/tips-bikin-es-kopi-susu-gula-aren-ala-coffee-shop-C2nLIqHPDk.jpg",
+            "tags": "ice, coffee, milk",
+            "rate": 4.4,
+            "vote": 367
+          },
+          {
+            "name": "Teh manis",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Sirup",
+            "image": "https://barecamedia.com/wp-content/uploads/2018/12/tc-express-2.jpg",
+            "tags": "sirup, fruit, orange",
+            "rate": 4.8,
+            "vote": 171
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          }
+        ]
+      }
+    },
+    {
+      "id": "w9pga3s2tubkfw1e867",
+      "name": "Bring Your Phone Cafe",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/03",
+      "city": "Surabaya",
+      "rating": 4.2,
+      "menus": {
+        "foods": [
+          {
+            "name": "Salad lengkeng",
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/07/30/salad-buah-enak-1.jpeg?w=700&q=90",
+            "tags": "salad, lengkeng, sweet",
+            "rate": 5.0,
+            "vote": 217
+          },
+          {
+            "name": "Sosis squash dan mint",
+            "image": "https://www.wikihow.com/images/thumb/0/0d/Bake-Spaghetti-Squash-Step-8-Version-3.jpg/v4-728px-Bake-Spaghetti-Squash-Step-8-Version-3.jpg.webp",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Toastie salmon",
+            "image": "https://229hkg2lw84tezus91ay33k2-wpengine.netdna-ssl.com/wp-content/uploads/2010/05/lox-and-toast.jpg",
+            "tags": "salmon, toast, eggs",
+            "rate": 4.7,
+            "vote": 82
+          },
+          {
+            "name": "Salad yuzu",
+            "image": "https://ohmydish.com/wp-content/uploads/2019/11/Oriental-salad-with-yuzu-dressing-1024x683.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          },
+          {
+            "name": "Matzo farfel",
+            "image": "https://www.kosher.com/resized/details.slide/m/a/Matzo_Farfel_with_Feta_and_Basil.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          },
+          {
+            "name": "Kari terong",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/10/02/1322186313.jpg",
+            "tags": "spicy, eggplant, curry",
+            "rate": 5.0,
+            "vote": 182
+          },
+          {
+            "name": "roket penne",
+            "image": "https://img.taste.com.au/A6v6tS7y/w720-h480-cfill-q80/taste/2016/11/penne-with-rocket-pesto-ricotta-31863-1.jpeg",
+            "tags": "pasta, presto",
+            "rate": 4.0,
+            "vote": 40
+          },
+          {
+            "name": "Napolitana",
+            "image": "https://www.tasteofhome.com/wp-content/uploads/2020/04/Pasta-Napolitana_EXPS_FT20_244521_F_0226_1-696x696.jpg",
+            "tags": "pasta, spageti, chili",
+            "rate": 5.0,
+            "vote": 140
+          },
+          {
+            "name": "Daging Sapi",
+            "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/ae4e4t.jpg",
+            "tags": "beef",
+            "rate": 4.8,
+            "vote": 210
+          },
+          {
+            "name": "Bebek crepes",
+            "image": "https://assets-pergikuliner.com/jR61qYT2fVc8kKTAZO9C9mTQSsI=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/679597/picture-1505895863.JPG",
+            "tags": "bebek, cabai, crepsy",
+            "rate": 5.0,
+            "vote": 125
+          },
+          {
+            "name": "Sup Kohlrabi",
+            "image": "https://i1.wp.com/useful-food.ru/wp-content/uploads/2010/02/tusheniy-kolrabi.jpg",
+            "tags": "kohlrabi, soup, beef",
+            "rate": 5.0,
+            "vote": 355
+          },
+          {
+            "name": "Ikan teri dan roti",
+            "image": "https://tandaseru.id/wp-content/uploads/2018/11/samball1.jpg",
+            "tags": "fish, salt, hot",
+            "rate": 4.2,
+            "vote": 91
+          },
+          {
+            "name": "Tumis leek",
+            "image": "https://i.pinimg.com/564x/1e/23/54/1e2354e9686f961e631996d4588cd58d.jpg",
+            "tags": "tumis, vegetable",
+            "rate": 4.2,
+            "vote": 62
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Kopi espresso",
+            "image": "https://asset.kompas.com/crops/Zx-i1LfsyTUseXT0eYqhKEo3ykk=/0x108:1000x608/750x500/data/photo/2017/08/08/3437766344.jpg",
+            "tags": "coffee, freeze, hot",
+            "rate": 4.6,
+            "vote": 42
+          },
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Jus apel",
+            "image": "https://mymilk.com/uploads/10-1.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Minuman soda",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/cewekbangetfoto/original/77518_meski-enak-dan-menyegarkan-soda-punya-banyak-dampak-buruk-bagi-kesehatan-kita.jpg",
+            "tags": "softdrink, soda, sweet",
+            "rate": 4.2,
+            "vote": 515
+          },
+          {
+            "name": "Air",
+            "image": "http://samudranesia.id/wp-content/uploads/2019/08/air-putih.jpg",
+            "tags": "water, fresh, health",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Es kopi",
+            "image": "https://img.okezone.com/content/2019/10/11/298/2115704/tips-bikin-es-kopi-susu-gula-aren-ala-coffee-shop-C2nLIqHPDk.jpg",
+            "tags": "ice, coffee, milk",
+            "rate": 4.4,
+            "vote": 367
+          }
+        ]
+      }
+    },
+    {
+      "id": "uewq1zg2zlskfw1e867",
+      "name": "Kafein",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/15",
+      "city": "Aceh",
+      "rating": 4.6,
+      "menus": {
+        "foods": [
+          {
+            "name": "Salad lengkeng",
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/07/30/salad-buah-enak-1.jpeg?w=700&q=90",
+            "tags": "salad, lengkeng, sweet",
+            "rate": 5.0,
+            "vote": 217
+          },
+          {
+            "name": "Kari terong",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/10/02/1322186313.jpg",
+            "tags": "spicy, eggplant, curry",
+            "rate": 5.0,
+            "vote": 182
+          },
+          {
+            "name": "Sosis squash dan mint",
+            "image": "https://www.wikihow.com/images/thumb/0/0d/Bake-Spaghetti-Squash-Step-8-Version-3.jpg/v4-728px-Bake-Spaghetti-Squash-Step-8-Version-3.jpg.webp",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Napolitana",
+            "image": "https://www.tasteofhome.com/wp-content/uploads/2020/04/Pasta-Napolitana_EXPS_FT20_244521_F_0226_1-696x696.jpg",
+            "tags": "pasta, spageti, chili",
+            "rate": 5.0,
+            "vote": 140
+          },
+          {
+            "name": "Salad yuzu",
+            "image": "https://ohmydish.com/wp-content/uploads/2019/11/Oriental-salad-with-yuzu-dressing-1024x683.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          },
+          {
+            "name": "Tumis leek",
+            "image": "https://i.pinimg.com/564x/1e/23/54/1e2354e9686f961e631996d4588cd58d.jpg",
+            "tags": "tumis, vegetable",
+            "rate": 4.2,
+            "vote": 62
+          },
+          {
+            "name": "Ikan teri dan roti",
+            "image": "https://tandaseru.id/wp-content/uploads/2018/11/samball1.jpg",
+            "tags": "fish, salt, hot",
+            "rate": 4.2,
+            "vote": 91
+          },
+          {
+            "name": "Kari kacang dan telur",
+            "image": "https://indonesianchefassociation.com/storage/recipes/zpGT7Bey6r3S1k4fjdvmEPoMCifG86KfhB2F5kWi.jpeg",
+            "tags": "curry, bean, eags",
+            "rate": 4.4,
+            "vote": 27
+          },
+          {
+            "name": "Toastie salmon",
+            "image": "https://229hkg2lw84tezus91ay33k2-wpengine.netdna-ssl.com/wp-content/uploads/2010/05/lox-and-toast.jpg",
+            "tags": "salmon, toast, eggs",
+            "rate": 4.7,
+            "vote": 82
+          },
+          {
+            "name": "Bebek crepes",
+            "image": "https://assets-pergikuliner.com/jR61qYT2fVc8kKTAZO9C9mTQSsI=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/679597/picture-1505895863.JPG",
+            "tags": "bebek, cabai, crepsy",
+            "rate": 5.0,
+            "vote": 125
+          },
+          {
+            "name": "Paket rosemary",
+            "image": "https://petualang.travelingyuk.com//uploads/2018/12/Bihun-Bebek.-Chinese-rice-noodle-soup-with-slices-of-duck-meat-a-popular-dish-for-breakfast-and-lunch-in-Medan-North-Sumatra..jpg",
+            "tags": "bebek, rosemary",
+            "rate": 4.5,
+            "vote": 78
+          },
+          {
+            "name": "Sup Kohlrabi",
+            "image": "https://i1.wp.com/useful-food.ru/wp-content/uploads/2010/02/tusheniy-kolrabi.jpg",
+            "tags": "kohlrabi, soup, beef",
+            "rate": 5.0,
+            "vote": 355
+          },
+          {
+            "name": "roket penne",
+            "image": "https://img.taste.com.au/A6v6tS7y/w720-h480-cfill-q80/taste/2016/11/penne-with-rocket-pesto-ricotta-31863-1.jpeg",
+            "tags": "pasta, presto",
+            "rate": 4.0,
+            "vote": 40
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Minuman soda",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/cewekbangetfoto/original/77518_meski-enak-dan-menyegarkan-soda-punya-banyak-dampak-buruk-bagi-kesehatan-kita.jpg",
+            "tags": "softdrink, soda, sweet",
+            "rate": 4.2,
+            "vote": 515
+          },
+          {
+            "name": "Es teh",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Jus tomat",
+            "image": "https://asset.kompas.com/crops/hXqJcAprfIWWXGoAnHvozTALgRQ=/0x75:1000x575/750x500/data/photo/2019/06/19/1237816996.jpg",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Air",
+            "image": "http://samudranesia.id/wp-content/uploads/2019/08/air-putih.jpg",
+            "tags": "water, fresh, health",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Kopi espresso",
+            "image": "https://asset.kompas.com/crops/Zx-i1LfsyTUseXT0eYqhKEo3ykk=/0x108:1000x608/750x500/data/photo/2017/08/08/3437766344.jpg",
+            "tags": "coffee, freeze, hot",
+            "rate": 4.6,
+            "vote": 42
+          },
+          {
+            "name": "Es kopi",
+            "image": "https://img.okezone.com/content/2019/10/11/298/2115704/tips-bikin-es-kopi-susu-gula-aren-ala-coffee-shop-C2nLIqHPDk.jpg",
+            "tags": "ice, coffee, milk",
+            "rate": 4.4,
+            "vote": 367
+          },
+          {
+            "name": "Sirup",
+            "image": "https://barecamedia.com/wp-content/uploads/2018/12/tc-express-2.jpg",
+            "tags": "sirup, fruit, orange",
+            "rate": 4.8,
+            "vote": 171
+          },
+          {
+            "name": "Jus alpukat",
+            "image": "https://caramembuat.id/wp-content/uploads/2019/01/cara-membuat-jus-alpukat.jpg",
+            "tags": "jus, avocado, health",
+            "rate": 4.7,
+            "vote": 210
+          },
+          {
+            "name": "Jus mangga",
+            "image": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/qwTpHwXe4j.jpg",
+            "tags": "jus, mango, health",
+            "rate": 5.0,
+            "vote": 180
+          },
+          {
+            "name": "Jus apel",
+            "image": "https://mymilk.com/uploads/10-1.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Es krim",
+            "image": "https://media.timeout.com/images/105680295/1372/772/image.jpg",
+            "tags": "ice, freeze, sweet",
+            "rate": 5.0,
+            "vote": 90
+          }
+        ]
+      }
+    },
+    {
+      "id": "ygewwl55ktckfw1e867",
+      "name": "Istana Emas",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/05",
+      "city": "Balikpapan",
+      "rating": 4.5,
+      "menus": {
+        "foods": [
+          {
+            "name": "Daging Sapi",
+            "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/ae4e4t.jpg",
+            "tags": "beef",
+            "rate": 4.8,
+            "vote": 210
+          },
+          {
+            "name": "Bebek crepes",
+            "image": "https://assets-pergikuliner.com/jR61qYT2fVc8kKTAZO9C9mTQSsI=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/679597/picture-1505895863.JPG",
+            "tags": "bebek, cabai, crepsy",
+            "rate": 5.0,
+            "vote": 125
+          },
+          {
+            "name": "Toastie salmon",
+            "image": "https://229hkg2lw84tezus91ay33k2-wpengine.netdna-ssl.com/wp-content/uploads/2010/05/lox-and-toast.jpg",
+            "tags": "salmon, toast, eggs",
+            "rate": 4.7,
+            "vote": 82
+          },
+          {
+            "name": "Kari terong",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/10/02/1322186313.jpg",
+            "tags": "spicy, eggplant, curry",
+            "rate": 5.0,
+            "vote": 182
+          },
+          {
+            "name": "Paket rosemary",
+            "image": "https://petualang.travelingyuk.com//uploads/2018/12/Bihun-Bebek.-Chinese-rice-noodle-soup-with-slices-of-duck-meat-a-popular-dish-for-breakfast-and-lunch-in-Medan-North-Sumatra..jpg",
+            "tags": "bebek, rosemary",
+            "rate": 4.5,
+            "vote": 78
+          },
+          {
+            "name": "Salad lengkeng",
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/07/30/salad-buah-enak-1.jpeg?w=700&q=90",
+            "tags": "salad, lengkeng, sweet",
+            "rate": 5.0,
+            "vote": 217
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Sirup",
+            "image": "https://barecamedia.com/wp-content/uploads/2018/12/tc-express-2.jpg",
+            "tags": "sirup, fruit, orange",
+            "rate": 4.8,
+            "vote": 171
+          },
+          {
+            "name": "Jus mangga",
+            "image": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/qwTpHwXe4j.jpg",
+            "tags": "jus, mango, health",
+            "rate": 5.0,
+            "vote": 180
+          },
+          {
+            "name": "Es teh",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Teh manis",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Kopi espresso",
+            "image": "https://asset.kompas.com/crops/Zx-i1LfsyTUseXT0eYqhKEo3ykk=/0x108:1000x608/750x500/data/photo/2017/08/08/3437766344.jpg",
+            "tags": "coffee, freeze, hot",
+            "rate": 4.6,
+            "vote": 42
+          },
+          {
+            "name": "Es kopi",
+            "image": "https://img.okezone.com/content/2019/10/11/298/2115704/tips-bikin-es-kopi-susu-gula-aren-ala-coffee-shop-C2nLIqHPDk.jpg",
+            "tags": "ice, coffee, milk",
+            "rate": 4.4,
+            "vote": 367
+          },
+          {
+            "name": "Minuman soda",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/cewekbangetfoto/original/77518_meski-enak-dan-menyegarkan-soda-punya-banyak-dampak-buruk-bagi-kesehatan-kita.jpg",
+            "tags": "softdrink, soda, sweet",
+            "rate": 4.2,
+            "vote": 515
+          },
+          {
+            "name": "Jus alpukat",
+            "image": "https://caramembuat.id/wp-content/uploads/2019/01/cara-membuat-jus-alpukat.jpg",
+            "tags": "jus, avocado, health",
+            "rate": 4.7,
+            "vote": 210
+          },
+          {
+            "name": "Jus tomat",
+            "image": "https://asset.kompas.com/crops/hXqJcAprfIWWXGoAnHvozTALgRQ=/0x75:1000x575/750x500/data/photo/2019/06/19/1237816996.jpg",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Es krim",
+            "image": "https://media.timeout.com/images/105680295/1372/772/image.jpg",
+            "tags": "ice, freeze, sweet",
+            "rate": 5.0,
+            "vote": 90
+          },
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          }
+        ]
+      }
+    },
+    {
+      "id": "fnfn8mytkpmkfw1e867",
+      "name": "Makan mudah",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/22",
+      "city": "Medan",
+      "rating": 3.7,
+      "menus": {
+        "foods": [
+          {
+            "name": "Kari kacang dan telur",
+            "image": "https://indonesianchefassociation.com/storage/recipes/zpGT7Bey6r3S1k4fjdvmEPoMCifG86KfhB2F5kWi.jpeg",
+            "tags": "curry, bean, eags",
+            "rate": 4.4,
+            "vote": 27
+          },
+          {
+            "name": "Toastie salmon",
+            "image": "https://229hkg2lw84tezus91ay33k2-wpengine.netdna-ssl.com/wp-content/uploads/2010/05/lox-and-toast.jpg",
+            "tags": "salmon, toast, eggs",
+            "rate": 4.7,
+            "vote": 82
+          },
+          {
+            "name": "Matzo farfel",
+            "image": "https://www.kosher.com/resized/details.slide/m/a/Matzo_Farfel_with_Feta_and_Basil.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          },
+          {
+            "name": "Napolitana",
+            "image": "https://www.tasteofhome.com/wp-content/uploads/2020/04/Pasta-Napolitana_EXPS_FT20_244521_F_0226_1-696x696.jpg",
+            "tags": "pasta, spageti, chili",
+            "rate": 5.0,
+            "vote": 140
+          },
+          {
+            "name": "Salad yuzu",
+            "image": "https://ohmydish.com/wp-content/uploads/2019/11/Oriental-salad-with-yuzu-dressing-1024x683.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          },
+          {
+            "name": "Sosis squash dan mint",
+            "image": "https://www.wikihow.com/images/thumb/0/0d/Bake-Spaghetti-Squash-Step-8-Version-3.jpg/v4-728px-Bake-Spaghetti-Squash-Step-8-Version-3.jpg.webp",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Daging Sapi",
+            "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/ae4e4t.jpg",
+            "tags": "beef",
+            "rate": 4.8,
+            "vote": 210
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Minuman soda",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/cewekbangetfoto/original/77518_meski-enak-dan-menyegarkan-soda-punya-banyak-dampak-buruk-bagi-kesehatan-kita.jpg",
+            "tags": "softdrink, soda, sweet",
+            "rate": 4.2,
+            "vote": 515
+          },
+          {
+            "name": "Jus apel",
+            "image": "https://mymilk.com/uploads/10-1.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Air",
+            "image": "http://samudranesia.id/wp-content/uploads/2019/08/air-putih.jpg",
+            "tags": "water, fresh, health",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Es krim",
+            "image": "https://media.timeout.com/images/105680295/1372/772/image.jpg",
+            "tags": "ice, freeze, sweet",
+            "rate": 5.0,
+            "vote": 90
+          },
+          {
+            "name": "Es teh",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Jus tomat",
+            "image": "https://asset.kompas.com/crops/hXqJcAprfIWWXGoAnHvozTALgRQ=/0x75:1000x575/750x500/data/photo/2019/06/19/1237816996.jpg",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          }
+        ]
+      }
+    },
+    {
+      "id": "dwg2wt3is19kfw1e867",
+      "name": "Drinky Squash",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/18",
+      "city": "Surabaya",
+      "rating": 3.9,
+      "menus": {
+        "foods": [
+          {
+            "name": "Sup Kohlrabi",
+            "image": "https://i1.wp.com/useful-food.ru/wp-content/uploads/2010/02/tusheniy-kolrabi.jpg",
+            "tags": "kohlrabi, soup, beef",
+            "rate": 5.0,
+            "vote": 355
+          },
+          {
+            "name": "Paket rosemary",
+            "image": "https://petualang.travelingyuk.com//uploads/2018/12/Bihun-Bebek.-Chinese-rice-noodle-soup-with-slices-of-duck-meat-a-popular-dish-for-breakfast-and-lunch-in-Medan-North-Sumatra..jpg",
+            "tags": "bebek, rosemary",
+            "rate": 4.5,
+            "vote": 78
+          },
+          {
+            "name": "Tumis leek",
+            "image": "https://i.pinimg.com/564x/1e/23/54/1e2354e9686f961e631996d4588cd58d.jpg",
+            "tags": "tumis, vegetable",
+            "rate": 4.2,
+            "vote": 62
+          },
+          {
+            "name": "Kari terong",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/10/02/1322186313.jpg",
+            "tags": "spicy, eggplant, curry",
+            "rate": 5.0,
+            "vote": 182
+          },
+          {
+            "name": "roket penne",
+            "image": "https://img.taste.com.au/A6v6tS7y/w720-h480-cfill-q80/taste/2016/11/penne-with-rocket-pesto-ricotta-31863-1.jpeg",
+            "tags": "pasta, presto",
+            "rate": 4.0,
+            "vote": 40
+          },
+          {
+            "name": "Sosis squash dan mint",
+            "image": "https://www.wikihow.com/images/thumb/0/0d/Bake-Spaghetti-Squash-Step-8-Version-3.jpg/v4-728px-Bake-Spaghetti-Squash-Step-8-Version-3.jpg.webp",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Salad lengkeng",
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/07/30/salad-buah-enak-1.jpeg?w=700&q=90",
+            "tags": "salad, lengkeng, sweet",
+            "rate": 5.0,
+            "vote": 217
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Es kopi",
+            "image": "https://img.okezone.com/content/2019/10/11/298/2115704/tips-bikin-es-kopi-susu-gula-aren-ala-coffee-shop-C2nLIqHPDk.jpg",
+            "tags": "ice, coffee, milk",
+            "rate": 4.4,
+            "vote": 367
+          },
+          {
+            "name": "Air",
+            "image": "http://samudranesia.id/wp-content/uploads/2019/08/air-putih.jpg",
+            "tags": "water, fresh, health",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Jus apel",
+            "image": "https://mymilk.com/uploads/10-1.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Kopi espresso",
+            "image": "https://asset.kompas.com/crops/Zx-i1LfsyTUseXT0eYqhKEo3ykk=/0x108:1000x608/750x500/data/photo/2017/08/08/3437766344.jpg",
+            "tags": "coffee, freeze, hot",
+            "rate": 4.6,
+            "vote": 42
+          },
+          {
+            "name": "Teh manis",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Es teh",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Jus mangga",
+            "image": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/qwTpHwXe4j.jpg",
+            "tags": "jus, mango, health",
+            "rate": 5.0,
+            "vote": 180
+          },
+          {
+            "name": "Es krim",
+            "image": "https://media.timeout.com/images/105680295/1372/772/image.jpg",
+            "tags": "ice, freeze, sweet",
+            "rate": 5.0,
+            "vote": 90
+          },
+          {
+            "name": "Jus alpukat",
+            "image": "https://caramembuat.id/wp-content/uploads/2019/01/cara-membuat-jus-alpukat.jpg",
+            "tags": "jus, avocado, health",
+            "rate": 4.7,
+            "vote": 210
+          },
+          {
+            "name": "Sirup",
+            "image": "https://barecamedia.com/wp-content/uploads/2018/12/tc-express-2.jpg",
+            "tags": "sirup, fruit, orange",
+            "rate": 4.8,
+            "vote": 171
+          },
+          {
+            "name": "Minuman soda",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/cewekbangetfoto/original/77518_meski-enak-dan-menyegarkan-soda-punya-banyak-dampak-buruk-bagi-kesehatan-kita.jpg",
+            "tags": "softdrink, soda, sweet",
+            "rate": 4.2,
+            "vote": 515
+          }
+        ]
+      }
+    },
+    {
+      "id": "6u9lf7okjh9kfw1e867",
+      "name": "Ampiran Kota",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/35",
+      "city": "Balikpapan",
+      "rating": 4.1,
+      "menus": {
+        "foods": [
+          {
+            "name": "Sup Kohlrabi",
+            "image": "https://i1.wp.com/useful-food.ru/wp-content/uploads/2010/02/tusheniy-kolrabi.jpg",
+            "tags": "kohlrabi, soup, beef",
+            "rate": 5.0,
+            "vote": 355
+          },
+          {
+            "name": "Toastie salmon",
+            "image": "https://229hkg2lw84tezus91ay33k2-wpengine.netdna-ssl.com/wp-content/uploads/2010/05/lox-and-toast.jpg",
+            "tags": "salmon, toast, eggs",
+            "rate": 4.7,
+            "vote": 82
+          },
+          {
+            "name": "Tumis leek",
+            "image": "https://i.pinimg.com/564x/1e/23/54/1e2354e9686f961e631996d4588cd58d.jpg",
+            "tags": "tumis, vegetable",
+            "rate": 4.2,
+            "vote": 62
+          },
+          {
+            "name": "Ikan teri dan roti",
+            "image": "https://tandaseru.id/wp-content/uploads/2018/11/samball1.jpg",
+            "tags": "fish, salt, hot",
+            "rate": 4.2,
+            "vote": 91
+          },
+          {
+            "name": "Kari kacang dan telur",
+            "image": "https://indonesianchefassociation.com/storage/recipes/zpGT7Bey6r3S1k4fjdvmEPoMCifG86KfhB2F5kWi.jpeg",
+            "tags": "curry, bean, eags",
+            "rate": 4.4,
+            "vote": 27
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Jus alpukat",
+            "image": "https://caramembuat.id/wp-content/uploads/2019/01/cara-membuat-jus-alpukat.jpg",
+            "tags": "jus, avocado, health",
+            "rate": 4.7,
+            "vote": 210
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Es teh",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Teh manis",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Es krim",
+            "image": "https://media.timeout.com/images/105680295/1372/772/image.jpg",
+            "tags": "ice, freeze, sweet",
+            "rate": 5.0,
+            "vote": 90
+          },
+          {
+            "name": "Jus mangga",
+            "image": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/qwTpHwXe4j.jpg",
+            "tags": "jus, mango, health",
+            "rate": 5.0,
+            "vote": 180
+          }
+        ]
+      }
+    },
+    {
+      "id": "zvf11c0sukfw1e867",
+      "name": "Gigitan Cepat",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+      "city": "Bali",
+      "rating": 4.0,
+      "menus": {
+        "foods": [
+          {
+            "name": "Tumis leek",
+            "image": "https://i.pinimg.com/564x/1e/23/54/1e2354e9686f961e631996d4588cd58d.jpg",
+            "tags": "tumis, vegetable",
+            "rate": 4.2,
+            "vote": 62
+          },
+          {
+            "name": "Paket rosemary",
+            "image": "https://petualang.travelingyuk.com//uploads/2018/12/Bihun-Bebek.-Chinese-rice-noodle-soup-with-slices-of-duck-meat-a-popular-dish-for-breakfast-and-lunch-in-Medan-North-Sumatra..jpg",
+            "tags": "bebek, rosemary",
+            "rate": 4.5,
+            "vote": 78
+          },
+          {
+            "name": "roket penne",
+            "image": "https://img.taste.com.au/A6v6tS7y/w720-h480-cfill-q80/taste/2016/11/penne-with-rocket-pesto-ricotta-31863-1.jpeg",
+            "tags": "pasta, presto",
+            "rate": 4.0,
+            "vote": 40
+          },
+          {
+            "name": "Daging Sapi",
+            "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/ae4e4t.jpg",
+            "tags": "beef",
+            "rate": 4.8,
+            "vote": 210
+          },
+          {
+            "name": "Napolitana",
+            "image": "https://www.tasteofhome.com/wp-content/uploads/2020/04/Pasta-Napolitana_EXPS_FT20_244521_F_0226_1-696x696.jpg",
+            "tags": "pasta, spageti, chili",
+            "rate": 5.0,
+            "vote": 140
+          },
+          {
+            "name": "Salad lengkeng",
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/07/30/salad-buah-enak-1.jpeg?w=700&q=90",
+            "tags": "salad, lengkeng, sweet",
+            "rate": 5.0,
+            "vote": 217
+          },
+          {
+            "name": "Matzo farfel",
+            "image": "https://www.kosher.com/resized/details.slide/m/a/Matzo_Farfel_with_Feta_and_Basil.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          },
+          {
+            "name": "Kari kacang dan telur",
+            "image": "https://indonesianchefassociation.com/storage/recipes/zpGT7Bey6r3S1k4fjdvmEPoMCifG86KfhB2F5kWi.jpeg",
+            "tags": "curry, bean, eags",
+            "rate": 4.4,
+            "vote": 27
+          },
+          {
+            "name": "Sosis squash dan mint",
+            "image": "https://www.wikihow.com/images/thumb/0/0d/Bake-Spaghetti-Squash-Step-8-Version-3.jpg/v4-728px-Bake-Spaghetti-Squash-Step-8-Version-3.jpg.webp",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Kari terong",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/10/02/1322186313.jpg",
+            "tags": "spicy, eggplant, curry",
+            "rate": 5.0,
+            "vote": 182
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Jus apel",
+            "image": "https://mymilk.com/uploads/10-1.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Air",
+            "image": "http://samudranesia.id/wp-content/uploads/2019/08/air-putih.jpg",
+            "tags": "water, fresh, health",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Teh manis",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Jus mangga",
+            "image": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/qwTpHwXe4j.jpg",
+            "tags": "jus, mango, health",
+            "rate": 5.0,
+            "vote": 180
+          },
+          {
+            "name": "Es teh",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Jus alpukat",
+            "image": "https://caramembuat.id/wp-content/uploads/2019/01/cara-membuat-jus-alpukat.jpg",
+            "tags": "jus, avocado, health",
+            "rate": 4.7,
+            "vote": 210
+          },
+          {
+            "name": "Jus tomat",
+            "image": "https://asset.kompas.com/crops/hXqJcAprfIWWXGoAnHvozTALgRQ=/0x75:1000x575/750x500/data/photo/2019/06/19/1237816996.jpg",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          }
+        ]
+      }
+    },
+    {
+      "id": "ughslf146iqkfw1e867",
+      "name": "Tempat Siang Hari",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/10",
+      "city": "Surabaya",
+      "rating": 4.4,
+      "menus": {
+        "foods": [
+          {
+            "name": "Matzo farfel",
+            "image": "https://www.kosher.com/resized/details.slide/m/a/Matzo_Farfel_with_Feta_and_Basil.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          },
+          {
+            "name": "Tumis leek",
+            "image": "https://i.pinimg.com/564x/1e/23/54/1e2354e9686f961e631996d4588cd58d.jpg",
+            "tags": "tumis, vegetable",
+            "rate": 4.2,
+            "vote": 62
+          },
+          {
+            "name": "Daging Sapi",
+            "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/ae4e4t.jpg",
+            "tags": "beef",
+            "rate": 4.8,
+            "vote": 210
+          },
+          {
+            "name": "Napolitana",
+            "image": "https://www.tasteofhome.com/wp-content/uploads/2020/04/Pasta-Napolitana_EXPS_FT20_244521_F_0226_1-696x696.jpg",
+            "tags": "pasta, spageti, chili",
+            "rate": 5.0,
+            "vote": 140
+          },
+          {
+            "name": "Kari kacang dan telur",
+            "image": "https://indonesianchefassociation.com/storage/recipes/zpGT7Bey6r3S1k4fjdvmEPoMCifG86KfhB2F5kWi.jpeg",
+            "tags": "curry, bean, eags",
+            "rate": 4.4,
+            "vote": 27
+          },
+          {
+            "name": "Kari terong",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/10/02/1322186313.jpg",
+            "tags": "spicy, eggplant, curry",
+            "rate": 5.0,
+            "vote": 182
+          },
+          {
+            "name": "Ikan teri dan roti",
+            "image": "https://tandaseru.id/wp-content/uploads/2018/11/samball1.jpg",
+            "tags": "fish, salt, hot",
+            "rate": 4.2,
+            "vote": 91
+          },
+          {
+            "name": "Bebek crepes",
+            "image": "https://assets-pergikuliner.com/jR61qYT2fVc8kKTAZO9C9mTQSsI=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/679597/picture-1505895863.JPG",
+            "tags": "bebek, cabai, crepsy",
+            "rate": 5.0,
+            "vote": 125
+          },
+          {
+            "name": "roket penne",
+            "image": "https://img.taste.com.au/A6v6tS7y/w720-h480-cfill-q80/taste/2016/11/penne-with-rocket-pesto-ricotta-31863-1.jpeg",
+            "tags": "pasta, presto",
+            "rate": 4.0,
+            "vote": 40
+          },
+          {
+            "name": "Salad lengkeng",
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/07/30/salad-buah-enak-1.jpeg?w=700&q=90",
+            "tags": "salad, lengkeng, sweet",
+            "rate": 5.0,
+            "vote": 217
+          },
+          {
+            "name": "Paket rosemary",
+            "image": "https://petualang.travelingyuk.com//uploads/2018/12/Bihun-Bebek.-Chinese-rice-noodle-soup-with-slices-of-duck-meat-a-popular-dish-for-breakfast-and-lunch-in-Medan-North-Sumatra..jpg",
+            "tags": "bebek, rosemary",
+            "rate": 4.5,
+            "vote": 78
+          },
+          {
+            "name": "Salad yuzu",
+            "image": "https://ohmydish.com/wp-content/uploads/2019/11/Oriental-salad-with-yuzu-dressing-1024x683.jpg",
+            "tags": "salad, vegetable",
+            "rate": 4.5,
+            "vote": 82
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Coklat panas",
+            "image": "https://akcdn.detik.net.id/customthumb/2013/02/20/900/055246_hotchocolate.cvr.jpg?w=700&q=90",
+            "tags": "chocolate, hot, milk",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Jus apel",
+            "image": "https://mymilk.com/uploads/10-1.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Sirup",
+            "image": "https://barecamedia.com/wp-content/uploads/2018/12/tc-express-2.jpg",
+            "tags": "sirup, fruit, orange",
+            "rate": 4.8,
+            "vote": 171
+          },
+          {
+            "name": "Kopi espresso",
+            "image": "https://asset.kompas.com/crops/Zx-i1LfsyTUseXT0eYqhKEo3ykk=/0x108:1000x608/750x500/data/photo/2017/08/08/3437766344.jpg",
+            "tags": "coffee, freeze, hot",
+            "rate": 4.6,
+            "vote": 42
+          },
+          {
+            "name": "Teh manis",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Es teh",
+            "image": "https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+            "tags": "tea, sweet, fresh",
+            "rate": 4.8,
+            "vote": 217
+          },
+          {
+            "name": "Es kopi",
+            "image": "https://img.okezone.com/content/2019/10/11/298/2115704/tips-bikin-es-kopi-susu-gula-aren-ala-coffee-shop-C2nLIqHPDk.jpg",
+            "tags": "ice, coffee, milk",
+            "rate": 4.4,
+            "vote": 367
+          },
+          {
+            "name": "Jus jeruk",
+            "image": "https://doktersehat.com/wp-content/uploads/2018/09/jus-jeruk.jpg",
+            "tags": "jus, apple, milk",
+            "rate": 4.8,
+            "vote": 110
+          },
+          {
+            "name": "Air",
+            "image": "http://samudranesia.id/wp-content/uploads/2019/08/air-putih.jpg",
+            "tags": "water, fresh, health",
+            "rate": 4.9,
+            "vote": 367
+          },
+          {
+            "name": "Jus mangga",
+            "image": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/qwTpHwXe4j.jpg",
+            "tags": "jus, mango, health",
+            "rate": 5.0,
+            "vote": 180
+          },
+          {
+            "name": "Jus tomat",
+            "image": "https://asset.kompas.com/crops/hXqJcAprfIWWXGoAnHvozTALgRQ=/0x75:1000x575/750x500/data/photo/2019/06/19/1237816996.jpg",
+            "tags": "sosis, spageti, cheese",
+            "rate": 4.9,
+            "vote": 257
+          },
+          {
+            "name": "Minuman soda",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/cewekbangetfoto/original/77518_meski-enak-dan-menyegarkan-soda-punya-banyak-dampak-buruk-bagi-kesehatan-kita.jpg",
+            "tags": "softdrink, soda, sweet",
+            "rate": 4.2,
+            "vote": 515
+          },
+          {
+            "name": "Es krim",
+            "image": "https://media.timeout.com/images/105680295/1372/772/image.jpg",
+            "tags": "ice, freeze, sweet",
+            "rate": 5.0,
+            "vote": 90
+          }
+        ]
+      }
+    }
+  ]
+}

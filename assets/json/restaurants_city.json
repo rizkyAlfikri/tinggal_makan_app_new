@@ -1,0 +1,32 @@
+{
+  "restaurant_city": [
+    {
+      "city": "All",
+      "image":""
+    },
+    {
+      "city": "Aceh",
+      "image":"https://cdn.iconscout.com/icon/premium/png-256-thumb/aceh-416215.png"
+    },
+    {
+      "city": "Bali",
+      "image":"https://cdn.iconscout.com/icon/premium/png-512-thumb/bali-415858.png"
+    },
+    {
+      "city": "Balikpapan",
+      "image":"https://welovecities.org/wp-content/uploads/2015/01/WWF_WLC_City_Icon_CE_Balikpapan_Indonesia.png"
+    },
+    {
+      "city": "Gorontalo",
+      "image":"https://cdn.iconscout.com/icon/premium/png-512-thumb/gorontalo-415879.png"
+    },
+    {
+      "city": "Medan",
+      "image":"https://i.pinimg.com/564x/ba/5a/40/ba5a400f6dbf703c7e1f458cc3c4577d.jpg"
+    },
+    {
+      "city": "Surabaya",
+      "image":"https://cdn.iconscout.com/icon/premium/png-512-thumb/surabaya-415882.png"
+    }
+  ]
+}
