@@ -33,8 +33,8 @@ class _RestaurantPageState extends State<RestaurantPage>
   @override
   void initState() {
     super.initState();
-    BlocProvider.of<RestaurantListBloc>(context).add(NoParams());
-    BlocProvider.of<RestaurantCityBloc>(context).add(NoParams());
+    BlocProvider.of<RestaurantListBloc>(context).dispatch(NoParams());
+    BlocProvider.of<RestaurantCityBloc>(context).dispatch(NoParams());
     _controller = AnimationController(
       vsync: this,
       duration: Duration(milliseconds: 1000),

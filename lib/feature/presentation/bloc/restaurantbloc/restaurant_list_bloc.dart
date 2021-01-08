@@ -8,7 +8,7 @@ import 'package:tinggal_makan_app/feature/presentation/utils/utils.dart';
 class RestaurantListBloc extends Bloc<NoParams, RestaurantState> {
   final GetRestaurantList _getRestaurantList;
 
-  RestaurantListBloc(this._getRestaurantList) : super(null);
+  RestaurantListBloc(this._getRestaurantList) ;
 
   @override
   RestaurantState get initialState => Empty();
